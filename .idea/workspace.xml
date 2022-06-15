@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18870991-770d-4ef7-8edc-73b3a4c0ddb1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/proyecto2022-viel.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto/Calcular.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto/Formulas.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -43,12 +44,14 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/proyecto2022-viel&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/ejercicios2022-Juani135&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -71,6 +74,22 @@
       <workItem from="1651601226461" duration="11000" />
       <workItem from="1651601321469" duration="4913000" />
       <workItem from="1651617296251" duration="12588000" />
+      <workItem from="1655187423408" duration="15000" />
+      <workItem from="1655187444510" duration="59000" />
+      <workItem from="1655187549780" duration="128000" />
+      <workItem from="1655187702816" duration="55000" />
+      <workItem from="1655187784156" duration="130000" />
+      <workItem from="1655222587458" duration="4457000" />
+      <workItem from="1655244049676" duration="213000" />
+      <workItem from="1655244727202" duration="473000" />
+      <workItem from="1655245455774" duration="838000" />
+      <workItem from="1655246410452" duration="2146000" />
+      <workItem from="1655248577558" duration="6000" />
+      <workItem from="1655248766150" duration="54000" />
+      <workItem from="1655248857020" duration="209000" />
+      <workItem from="1655249080043" duration="3263000" />
+      <workItem from="1655252376928" duration="1919000" />
+      <workItem from="1655257781243" duration="1080000" />
     </task>
     <servers />
   </component>
