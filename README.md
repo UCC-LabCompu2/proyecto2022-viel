@@ -8,7 +8,7 @@
 * Formula de IMC
 * Calculador de IMC
 
-Link al sitio: [Proyecto de Laboratorio 2](https://ucc-labcompu2.github.io/proyecto2022-viel/Index.html)
+Link al sitio: [Proyecto de Laboratorio 2](https://ucc-labcompu2.github.io/proyecto2022-viel/Index.html) 
 
 ## Requisitos del Primer Parcial
 
